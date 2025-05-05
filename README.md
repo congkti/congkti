@@ -20,8 +20,11 @@
 ### Front-End
 
 <p align="left">
-    <img
+<!--     <img
         src="https://skillicons.dev/icons?i=ts,react,vite,redux,js,tailwind,bootstrap,sass,css,html"
+    /> -->
+    <img
+        src="./frontend_ok.svg"
     />
 </p>
 
@@ -29,7 +32,7 @@
 
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,python,docker"
+        src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,ts,js,docker"
     />
 </p>
 
@@ -40,6 +43,7 @@
         src="https://skillicons.dev/icons?i=postman,figma,github,git,photoshop,illustrator"
     />
 </p>
+
 ## Top Respositories:
 
 <p align="left">
