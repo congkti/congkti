@@ -1,5 +1,5 @@
 ![Header](./header-image.png)
-<h1 align="center">Hi 👋, I'm <a href="javascript:void(0)" target="_blank">BUI HUU CONG</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="javascript:void(0)" target="_blank">CONG BUI</a></h1>
 <h5 align="center">passionate fullstack web developer from HCMC, Vietnam</h5>
 
 ## Profile Views:
