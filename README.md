@@ -23,7 +23,7 @@
 <!--     <img
         src="https://skillicons.dev/icons?i=ts,react,vite,redux,js,tailwind,bootstrap,sass,css,html"
     /> -->
-    <img src="./frontend_ok.svg" />
+    <img height="48" src="./frontend_ok.svg" />
 </p>
 
 ### Back-End
